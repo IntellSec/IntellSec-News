@@ -1,2 +1,2 @@
-# I don't know what I'm doing 
-Trying to figure out this Jekyll page blog... 
+# IntellSec News - Welcome
+Welcome to IntellSec news. On this page, you'll find upcoming projects for the site, and other related news.
